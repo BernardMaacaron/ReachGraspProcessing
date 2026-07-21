@@ -1,0 +1,25 @@
+{
+	"Authors": [
+		"Di Domenico",
+		"Forsiuk",
+		"Muller-Cleve",
+		"Tanzarella",
+		"Garro",
+		"Marinelli",
+		"Canepa",
+		"Laffranchi",
+		"Chiappalone",
+		"Bartolozzi",
+		"De Michieli",
+		"Boccardo",
+		"Semprini"
+	],
+	"BIDSVersion": "n/a",
+	"DatasetDOI": "10.48557/L6OWMM",
+	"DatasetType": "raw",
+	"Funding":	"Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro: PR19-PAS-P1",
+				"Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro: PR23-PAS-P1",
+				"European Commission, MSCA-ETN NeuTouch: 813713",
+	"License": "CC BY 4.0",
+	"Name": "ReachGrasp",
+}

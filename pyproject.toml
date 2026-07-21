@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reachgrasp"
+version = "1.0.0"
+description = "Loading, preprocessing, analysis, and plotting utilities for the ReachGrasp dataset"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "scipy",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+]
+
+[tool.setuptools.packages.find]
+include = ["reachgrasp*"]
+
+[tool.setuptools.package-data]
+reachgrasp = ["channel_mappings.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
