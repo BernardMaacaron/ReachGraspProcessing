@@ -1,4 +1,7 @@
+matplotlib
 numpy
 pandas
 scipy
-matplotlib
+
+[dev]
+pytest

@@ -1,0 +1,16 @@
+{
+	"DeviceSerialNumber": "NaN",
+	"InstitutionAddress": "Via Morego 30",
+	"InstitutionName": "Istituto Italiano di Tecnologia",
+	"InstitutionalDepartmentName": "Rehab Technologies",
+	"Manufacturer": "CyberGlove® Data Glove",
+	"ManufacturersModelName": "Version 1.1",
+	"MotionChannelCount": 18,
+	"RecordingDuration": 69.43,
+	"RecordingType": "Continuous",
+	"SamplingFrequency": 100,
+	"SoftwareVersions": "ROS Noetic",
+	"SubjectArtefactDescription": "NaN",
+	"TaskDescription": "Subject is closing the hand",
+	"TaskName": "HC"
+}

@@ -10,3 +10,6 @@ reachgrasp.egg-info/SOURCES.txt
 reachgrasp.egg-info/dependency_links.txt
 reachgrasp.egg-info/requires.txt
 reachgrasp.egg-info/top_level.txt
+tests/test_data_loading.py
+tests/test_imports.py
+tests/test_preprocessing.py

@@ -1,0 +1,16 @@
+{
+	"DeviceSerialNumber": "VL0658",
+	"InstitutionAddress": "Via Morego 30",
+	"InstitutionName": "Istituto Italiano di Tecnologia",
+	"InstitutionalDepartmentName": "Rehab Technologies",
+	"Manufacturer": "Vicon",
+	"ManufacturersModelName": "Vicon Lock+",
+	"MotionChannelCount": 31,
+	"RecordingDuration": 69.43,
+	"RecordingType": "Continuous",
+	"SamplingFrequency": 100,
+	"SoftwareVersions": "Vicon Nexus 2.12.1",
+	"SubjectArtefactDescription": "NaN",
+	"TaskDescription": "Subject is closing the hand",
+	"TaskName": "HC"
+}
